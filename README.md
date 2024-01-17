@@ -6,8 +6,8 @@
 혼자서 즐길 수 있는 도트 방식의 SRPG입니다.
 
 ## Developers
-- 김선오 - 한양대학교
-- 손다윤 - KAIST
+- 김선오 - 전투 컨셉 기획, 전투 Scene 개발, Transition 및 BGM 적용
+- 손다윤 - 게임 컨셉 기획, 맵 Scene 개발, Animation 및 Asset 적용
 
 ## Development Tools
 - Unity
