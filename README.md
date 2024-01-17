@@ -1,4 +1,4 @@
-# The Legend of Elemental Guy!
+# The Legend of Elemental Guy
 
 ## Introductions
 몬스터들이 바글거리는 미지의 던전에서 살아남아 보물 상자를 쟁취하세요!
