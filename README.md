@@ -14,6 +14,7 @@
 
 ## Game Play
 ### Main Scene
+![스크린샷 2024-01-17 20 05 48](https://github.com/sunohkim/Madcamp_Week3_RPG/assets/37200748/16f9b925-5af2-4314-ae49-80a57ee2d778)
 아무 키를 누르면 게임이 시작됩니다.
 
 ### Map Scene
